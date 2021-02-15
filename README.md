@@ -1,4 +1,4 @@
-GAIH Öğrenci Repo
+#GlobalAIHubPythonCourse
 
 
 
